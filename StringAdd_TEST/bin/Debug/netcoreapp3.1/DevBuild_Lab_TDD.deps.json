@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DevBuild_Lab_TDD/1.0.0": {
+        "runtime": {
+          "DevBuild_Lab_TDD.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DevBuild_Lab_TDD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

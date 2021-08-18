@@ -1,0 +1,13 @@
+C:\Devbuild\Week6\DevBuild_Lab_TDD\DevBuild_Lab_TDD\obj\Debug\netcoreapp3.1\DevBuild_Lab_TDD.csproj.AssemblyReference.cache
+C:\Devbuild\Week6\DevBuild_Lab_TDD\DevBuild_Lab_TDD\obj\Debug\netcoreapp3.1\DevBuild_Lab_TDD.AssemblyInfoInputs.cache
+C:\Devbuild\Week6\DevBuild_Lab_TDD\DevBuild_Lab_TDD\obj\Debug\netcoreapp3.1\DevBuild_Lab_TDD.AssemblyInfo.cs
+C:\Devbuild\Week6\DevBuild_Lab_TDD\DevBuild_Lab_TDD\obj\Debug\netcoreapp3.1\DevBuild_Lab_TDD.csproj.CoreCompileInputs.cache
+C:\Devbuild\Week6\DevBuild_Lab_TDD\DevBuild_Lab_TDD\bin\Debug\netcoreapp3.1\DevBuild_Lab_TDD.exe
+C:\Devbuild\Week6\DevBuild_Lab_TDD\DevBuild_Lab_TDD\bin\Debug\netcoreapp3.1\DevBuild_Lab_TDD.deps.json
+C:\Devbuild\Week6\DevBuild_Lab_TDD\DevBuild_Lab_TDD\bin\Debug\netcoreapp3.1\DevBuild_Lab_TDD.runtimeconfig.json
+C:\Devbuild\Week6\DevBuild_Lab_TDD\DevBuild_Lab_TDD\bin\Debug\netcoreapp3.1\DevBuild_Lab_TDD.runtimeconfig.dev.json
+C:\Devbuild\Week6\DevBuild_Lab_TDD\DevBuild_Lab_TDD\bin\Debug\netcoreapp3.1\DevBuild_Lab_TDD.dll
+C:\Devbuild\Week6\DevBuild_Lab_TDD\DevBuild_Lab_TDD\bin\Debug\netcoreapp3.1\DevBuild_Lab_TDD.pdb
+C:\Devbuild\Week6\DevBuild_Lab_TDD\DevBuild_Lab_TDD\obj\Debug\netcoreapp3.1\DevBuild_Lab_TDD.dll
+C:\Devbuild\Week6\DevBuild_Lab_TDD\DevBuild_Lab_TDD\obj\Debug\netcoreapp3.1\DevBuild_Lab_TDD.pdb
+C:\Devbuild\Week6\DevBuild_Lab_TDD\DevBuild_Lab_TDD\obj\Debug\netcoreapp3.1\DevBuild_Lab_TDD.genruntimeconfig.cache
